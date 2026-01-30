@@ -49,10 +49,11 @@ PS-LIGIA/
 ├── README.md                           # Documentação do projeto
 ├── app.py                              # Aplicação Principal (Dashboard Streamlit)
 │
-├── EDA/                                # Análise exploratória de dados
-│   ├── EDA 1.ipynb                     # 
-│   ├── EDA 2.ipynb                     # 
-│   └── EDA 3.ipynb                     # 
+├── EDA/                                # Análise exploratória de dados (Solo)
+│   ├── EDA 1.ipynb                     # (Cauã Emanuel)
+│   ├── EDA 2.ipynb                     # (Amanda Arruda)
+│   ├── EDA 3.ipynb                     # (Daniel Nascimento)
+│   └── EDA 4.ipynb                     # (Adriana Melcop)
 |
 ├── Modelo_Final/                       # Artefatos utilizados na aplicação (Produção)
 │   ├── modelo_XGBoost.joblib           # Modelo preditivo treinado
@@ -63,7 +64,7 @@ PS-LIGIA/
 |   └── Importancia_das_variaveis.png
 │
 └── Modelos Testados/                   # Laboratório de experimentos e testes
-    ├── Dataset tratado/                # Dados processados e split (treino/teste)
+    ├── Dataset tratado/                # Dados processados e split (treino/teste) (Bruno Henrique)
     │   ├── Pré_processamento...ipynb   # Código de pre-processamento dos dados
     │   ├── train_... .csv
     │   ├── test_... .csv
