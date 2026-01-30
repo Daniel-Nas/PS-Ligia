@@ -49,6 +49,11 @@ PS-LIGIA/
 ├── README.md                           # Documentação do projeto
 ├── app.py                              # Aplicação Principal (Dashboard Streamlit)
 │
+├── EDA/                                # Análise exploratória de dados
+│   ├── EDA 1.ipynb                     # 
+│   ├── EDA 2.ipynb                     # 
+│   └── EDA 3.ipynb                     # 
+|
 ├── Modelo_Final/                       # Artefatos utilizados na aplicação (Produção)
 │   ├── modelo_XGBoost.joblib           # Modelo preditivo treinado
 │   ├── scaler.joblib                   # Escalonador (Normalização de dados)
@@ -59,7 +64,7 @@ PS-LIGIA/
 │
 └── Modelos Testados/                   # Laboratório de experimentos e testes
     ├── Dataset tratado/                # Dados processados e split (treino/teste)
-    │   ├── Pré_processamento...ipynb
+    │   ├── Pré_processamento...ipynb   # Código de pre-processamento dos dados
     │   ├── train_... .csv
     │   ├── test_... .csv
     │   └── val_... .csv
@@ -116,7 +121,7 @@ python3 -m venv .venv
 
 3. **Ative o ambiente virtual:**
 ```bash
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 4. **Instale as dependências Python:**
@@ -137,14 +142,14 @@ streamlit run app.py
 
 ## 👥 Equipe desenvolvedora
 
-Adriana Theil Melcop de Castro 
-Amanda Arruda de Melo Silva 
-André Ferrão de Oliveira
-Bruno Henrique Ferreira Pinto 
-Cauã Emanuel de Oliveira Rêgo 
-Daniel Nascimento da Silva
-Davi José de Santana Barbosa
-Diogo Cavalcanti Carneiro de Albuquerque 
-Nicole Leíse de Andrade Serra
+- Adriana Theil Melcop de Castro
+- Amanda Arruda de Melo Silva 
+- André Ferrão de Oliveira
+- Bruno Henrique Ferreira Pinto 
+- Cauã Emanuel de Oliveira Rêgo 
+- Daniel Nascimento da Silva
+- Davi José de Santana Barbosa
+- Diogo Cavalcanti Carneiro de Albuquerque 
+- Nicole Leíse de Andrade Serra
 
 **Desenvolvido para o Processo seletivo - LIGIA 2026**
