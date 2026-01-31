@@ -72,7 +72,7 @@ PS-LIGIA/
     │
     ├── Arvore_de_Decisão - Daniel Nascimento.ipynb
     ├── KNN - André Ferrão.ipynb
-    ├── Lasso_Regression - Nicole Layse.ipynb
+    ├── Lasso_Regression - Nicole Leíse.ipynb
     ├── LinearRegression - Adriana Melcop.ipynb
     ├── Random_Forest - Amanda Arruda.ipynb
     ├── Ridge_Regression - Diogo Cavalcanti.ipynb
